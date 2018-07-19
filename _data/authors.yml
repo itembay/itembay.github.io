@@ -1,0 +1,20 @@
+jcsong:
+  username: jcsong
+  name: 송재춘
+  url_full: 
+  url: 
+  bio: 개발팀 웹개발
+  picture: assets/images/ghost.png
+  facebook: False
+  twitter: False
+  cover: False
+hyemkim:
+  username: hyemkim
+  name: 김혜미
+  url_full: 
+  url: 
+  bio: 개발팀 퍼블리셔
+  picture: assets/images/ghost.png
+  facebook: False
+  twitter: False
+  cover: False

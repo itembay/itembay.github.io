@@ -9,9 +9,6 @@ class: page-template
 subclass: 'post page'
 
 ---
-
-<h1>project R </h1>
-
 http://www.itembay.com/
 
 

@@ -9,8 +9,7 @@ subclass: 'post page'
 
 ---
 
-<h1>study page </h1>
-<li>page test</li>
-<li>2019.03.08</li>
+<h1>project R </h1>
+
 
 

@@ -1,6 +1,6 @@
 ---
-layout: page
-current: study
+layout: post
+current: post
 title: Study
 comments : true
 navigation: true

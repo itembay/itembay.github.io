@@ -27,7 +27,7 @@ subscribers: True # you need to connect an external service for this to work,
 
 # Disqus
 disqus: true
-disqus_shortname: jekyller # replace with your disqus username
+disqus_shortname: itembay-1 # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier

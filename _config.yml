@@ -26,7 +26,7 @@ subscribers: True # you need to connect an external service for this to work,
 # facebook: ghost # replace by your username
 
 # Disqus
-disqus: False
+disqus: true
 disqus_shortname: jekyller # replace with your disqus username
 
 # Google Analytics

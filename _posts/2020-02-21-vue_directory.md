@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover: assets/images/bear.jpg 
 navigation: True
 title: Vue 디렉토리 구조
 comments : true
